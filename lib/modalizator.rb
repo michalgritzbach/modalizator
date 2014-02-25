@@ -1,5 +1,3 @@
+require 'action_view/railtie'
 require "modalizator/version"
-
-module Modalizator
-  # Your code goes here...
-end
+require 'modalizator/helpers'
