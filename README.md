@@ -1,6 +1,8 @@
 # Modalizator
 
+Powerful component
 TODO: Write a gem description
+
 
 ## Installation
 
